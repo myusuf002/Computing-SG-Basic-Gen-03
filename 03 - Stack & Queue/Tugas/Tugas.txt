@@ -1,0 +1,3 @@
+Buatlah program stack untuk mengecek apakah sebuah tanda kurung seimbang atau tidak
+
+NB : Tidak boleh menggunakan library, dan juga harus menggunakan array

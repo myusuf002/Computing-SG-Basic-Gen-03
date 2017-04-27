@@ -1,0 +1,7 @@
+SOAL
+
+Buatlah tranpose matriks tanpa menggunakan library.
+
+[[12,7],
+  [4 ,5],
+  [3 ,8]]
